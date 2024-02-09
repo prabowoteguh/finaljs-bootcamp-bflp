@@ -1,1 +1,0 @@
-Silakan akses yang sudah di deploy melalui https://teguh-finaljs.netlify.app/
